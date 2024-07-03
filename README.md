@@ -1,9 +1,14 @@
 ## 💥 Hey, I'm Jay 
 
-## 🔭 I’m currently working on building out my project portfolio
-## 💪🏻 Excel is my best friend, but Python and I are getting to know eachother 🐍
-## 🖌 When I'm not wrangling data, you can find me working on my next masterpiece 
-## 📫 How to reach me: jayk
+![Profile Image](https://github.com/jaywriting/jaywriting/blob/main/Profesional%20Banner.png?raw=true)
+
+
+- 🔭 I’m currently working on building out my project portfolio 
+- 💪🏻 Excel is my best friend, but Python and I are getting to know eachother 🐍
+- 🖌 When I'm not wrangling data, you can find me working on my next masterpiece
+- 📫 How to reach me: jaykdent@gmail.com
+
+
 
 <!--
 **jaywriting/jaywriting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
