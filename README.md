@@ -1,4 +1,9 @@
-## Hi there 👋
+## 💥 Hey, I'm Jay 
+
+## 🔭 I’m currently working on building out my project portfolio
+## 💪🏻 Excel is my best friend, but Python and I are getting to know eachother 🐍
+## 🖌 When I'm not wrangling data, you can find me working on my next masterpiece 
+## 📫 How to reach me: jayk
 
 <!--
 **jaywriting/jaywriting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
